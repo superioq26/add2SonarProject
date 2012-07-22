@@ -1,4 +1,4 @@
-package es.bcn.mci;
+package es.bcn.idj;
 
 /**
  * Hello world!
